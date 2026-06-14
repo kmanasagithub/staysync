@@ -1,8 +1,8 @@
-# StaySync – Hotel Reservation & Payment Platform
+# 🏨 StaySync – Hotel Reservation & Payment Platform
 
-## Overview
+## 🎯 Overview
 
-StaySync is a full-featured hotel reservation and booking platform developed using Spring Boot. The application enables users to search hotels, manage bookings, add guests, process secure online payments, and manage hotel inventories through RESTful APIs.
+StaySync is a full-featured backend hotel reservation and booking platform developed using Spring Boot. The application enables users to search hotels, manage bookings, add guests, process secure online payments, and manage hotel inventories through RESTful APIs.
 
 The project demonstrates enterprise-grade backend development practices including JWT Authentication, Refresh Tokens, Spring Security, Stripe Payment Integration, Hibernate/JPA, Design Patterns, Global Exception Handling, DTO Mapping, and API Documentation using Swagger/OpenAPI.
 
